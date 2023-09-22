@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/311.96993faa.chunk.js","mappings":"0HAIA,UAJc,WACV,OAAOA,EAAAA,EAAAA,KAAA,MAAAC,SAAI,uBACf,C","sources":["pages/learn.js"],"sourcesContent":["const Learn = () =>{\r\n    return <h1>This is my learning</h1>\r\n}\r\n\r\nexport default Learn\r\n\r\n"],"names":["_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[803],{803:function(e,t,n){n.r(t);var s=n(270),i=n(184);t.default=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(s.q,{children:[(0,i.jsx)("html",{lang:"en"}),(0,i.jsx)("title",{children:"Blog page"}),(0,i.jsx)("meta",{name:"description",content:"Tutorial for React Helmet"}),(0,i.jsx)("meta",{name:"theme-color",content:"#E6E6FA"})]}),(0,i.jsx)("h1",{children:"This is my Blog page"})]})}}}]);
+//# sourceMappingURL=803.47c6e563.chunk.js.map
